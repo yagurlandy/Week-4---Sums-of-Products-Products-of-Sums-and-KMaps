@@ -1,4 +1,5 @@
 # Lab Notes: K-map Simplification and Logic Verification
+Andy Lopez-Martinez & Ibuki Hasegawa
 
 ## 1. Lab Summary
 This lab focused on simplifying logic expressions using Karnaugh maps (K-maps). We learned how to identify and minimize Boolean expressions by grouping terms within the map. We also studied the differences between Sum of Products (SOP) and Product of Sums (POS), and practiced performing the corresponding calculations. Finally, we implemented the simplified logic expressions in code, tested them on the circuit, and confirmed that the logic matched and functioned correctly.
